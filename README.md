@@ -1,6 +1,6 @@
 # User-and-Resource-Management
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Create a User</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
