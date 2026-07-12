@@ -3,6 +3,8 @@
 <h1>Create a User</h1>
 </p>
 <p>
+A Google Workspace user account provides an individual with secure access to Google Workspace services such as Gmail, Google Drive, Google Calendar, Google Meet, and Google Docs. User accounts allow administrators to assign licenses, enforce security policies, manage storage, control access to organizational resources, and authenticate users across Google services.
+  <p>
 To create a user account in Google Workspace you must do the following:
 <p>
 </p>
@@ -18,8 +20,8 @@ To create a user account in Google Workspace you must do the following:
 <p>
   
 <h1>Organizational Units</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
+An organizational unit (OU) is a group that an administrator can create in the Google Admin console to apply settings to a specific set of users. By default, all users are placed in the top-level (parent) organizational unit. All settings configured in the Admin console apply to this top-level organizational unit and, therefore, to all users and devices in your account. Below the top-level unit, you can add child organizational units and apply more specific settings to the child OUs. Child OUs inherit all the settings of their parent OUs. Please note that as the administrator, you can’t move yourself to another organizational unit.
 <p>
 <img width="493" height="460" alt="image" src="https://github.com/user-attachments/assets/06028eb6-8afe-4265-9fa3-f476b78eba18" />
 
