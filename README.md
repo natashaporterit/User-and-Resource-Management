@@ -23,11 +23,22 @@ To create a user account in Google Workspace you must do the following:
 
 An organizational unit (OU) is a group that an administrator can create in the Google Admin console to apply settings to a specific set of users. By default, all users are placed in the top-level (parent) organizational unit. All settings configured in the Admin console apply to this top-level organizational unit and, therefore, to all users and devices in your account. Below the top-level unit, you can add child organizational units and apply more specific settings to the child OUs. Child OUs inherit all the settings of their parent OUs. Please note that as the administrator, you can’t move yourself to another organizational unit.
 <p>
-<img width="493" height="460" alt="image" src="https://github.com/user-attachments/assets/06028eb6-8afe-4265-9fa3-f476b78eba18" />
+Let's look at a scenario where we would need to implement an OU. Imagine you received the following email from the CEO of the company.
+  <p>
+Hello Google Workspace Admin,
+<p>
+Im looking for a solution to grant the executive board exclusive access to certain tools and services. Is there any way we can organize the following users into an "Executive" group and all other users into an "Employee" group that we can apply separate settings to?
+<p>
+  Regards, 
+  <p>
+    Sam M, CEO
+  </p>
+<p>
+<img width="947" height="655" alt="CEO letter" src="https://github.com/user-attachments/assets/95db60dd-1b09-4fcd-9047-fbbb3e553b7e" />
 
 </p>
 <p>
-To install the Support Ticket System, start by creating an Azure subscription and setting up a resource group to organize related resources. Next, configure a virtual network and define a subnet within it to manage network traffic. Once the network is ready, deploy a virtual machine (VM) inside the subnet. Finally, install the required prerequisites and then set up the Support Ticket System on the VM. 
+We would start off fulfilling this request by
 
 <h1>User Account Management</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
