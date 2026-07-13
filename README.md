@@ -32,9 +32,7 @@ Im looking for a solution to grant the executive board exclusive access to certa
   Regards, 
   <p>
     Sam M, CEO
-  </p>
-<p>
-<img width="947" height="655" alt="CEO letter" src="https://github.com/user-attachments/assets/95db60dd-1b09-4fcd-9047-fbbb3e553b7e" />
+  <p>
 
 </p>
 <p>
