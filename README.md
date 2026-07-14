@@ -44,6 +44,12 @@ This is a very straightforward process. Nevigate to directory and then OU (organ
 </p>
 <img width="471" height="329" alt="Change OU for user" src="https://github.com/user-attachments/assets/326ecdbd-3ba3-439a-a91a-5ff59bcc2743" />
 
+<p>
+</p>
+It is helpful to enable services to one OU and not another. We start this process by nevigating to Apps, Additional Google Services and then click on the app you would like to enable or disable using the three dots at the end of the row. This will adjust settings for that entire OU. 
+
+<img width="1568" height="516" alt="Restrict access to a service" src="https://github.com/user-attachments/assets/02af7fcf-534f-4693-80c4-4359d9384699" />
+
 <h1>User Account Management</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
