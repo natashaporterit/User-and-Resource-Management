@@ -36,9 +36,11 @@ Im looking for a solution to grant the executive board exclusive access to certa
 
 </p>
 <p>
-This is a very straight forward process. Nevigate to directory and then OU (organizational unit).
+This is a very straightforward process. Nevigate to directory and then OU (organizational unit). Next you will select "create organizational unit." After this step you will then be able to move employees to the desired OU. 
+<p>
+</p>
 
-<img width="729" height="378" alt="OU creation" src="https://github.com/user-attachments/assets/2efd8c39-3f86-4644-811f-66e7d704dd4d" />
+<img width="471" height="329" alt="Change OU for user" src="https://github.com/user-attachments/assets/326ecdbd-3ba3-439a-a91a-5ff59bcc2743" />
 
 <h1>User Account Management</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
