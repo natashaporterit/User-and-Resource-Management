@@ -40,6 +40,8 @@ This is a very straightforward process. Nevigate to directory and then OU (organ
 <p>
 </p>
 
+<img width="729" height="378" alt="OU creation" src="https://github.com/user-attachments/assets/c00e0e81-f446-4a05-af69-4dccb3817dd6" />
+</p>
 <img width="471" height="329" alt="Change OU for user" src="https://github.com/user-attachments/assets/326ecdbd-3ba3-439a-a91a-5ff59bcc2743" />
 
 <h1>User Account Management</h1>
