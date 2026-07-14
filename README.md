@@ -36,7 +36,9 @@ Im looking for a solution to grant the executive board exclusive access to certa
 
 </p>
 <p>
-We would start off fulfilling this request by
+This is a very straight forward process. Nevigate to directory and then OU (organizational unit).
+
+<img width="729" height="378" alt="OU creation" src="https://github.com/user-attachments/assets/2efd8c39-3f86-4644-811f-66e7d704dd4d" />
 
 <h1>User Account Management</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
