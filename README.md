@@ -49,37 +49,3 @@ This is a very straightforward process. Nevigate to directory and then OU (organ
 It is helpful to enable services to one OU and not another. We start this process by nevigating to Apps, Additional Google Services and then click on the app you would like to enable or disable using the three dots at the end of the row. This will adjust settings for that entire OU. 
 
 <img width="1568" height="516" alt="Restrict access to a service" src="https://github.com/user-attachments/assets/02af7fcf-534f-4693-80c4-4359d9384699" />
-
-<h1>User Account Management</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-<p>
-<img width="493" height="460" alt="image" src="https://github.com/user-attachments/assets/06028eb6-8afe-4265-9fa3-f476b78eba18" />
-
-</p>
-<p>
-To install the Support Ticket System, start by creating an Azure subscription and setting up a resource group to organize related resources. Next, configure a virtual network and define a subnet within it to manage network traffic. Once the network is ready, deploy a virtual machine (VM) inside the subnet. Finally, install the required prerequisites and then set up the Support Ticket System on the VM. 
-
-<h1>Groups</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-<p>
-<img width="493" height="460" alt="image" src="https://github.com/user-attachments/assets/06028eb6-8afe-4265-9fa3-f476b78eba18" />
-
-</p>
-<p>
-To install the Support Ticket System, start by creating an Azure subscription and setting up a resource group to organize related resources. Next, configure a virtual network and define a subnet within it to manage network traffic. Once the network is ready, deploy a virtual machine (VM) inside the subnet. Finally, install the required prerequisites and then set up the Support Ticket System on the VM. 
-
-<h1>Resources</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-<p>
-<img width="493" height="460" alt="image" src="https://github.com/user-attachments/assets/06028eb6-8afe-4265-9fa3-f476b78eba18" />
-
-</p>
-<p>
-To install the Support Ticket System, start by creating an Azure subscription and setting up a resource group to organize related resources. Next, configure a virtual network and define a subnet within it to manage network traffic. Once the network is ready, deploy a virtual machine (VM) inside the subnet. Finally, install the required prerequisites and then set up the Support Ticket System on the VM. 
-
-
-
-
