@@ -1,4 +1,4 @@
-# User-and-Resource-Management
+# User-and-Organizational Units
 
 <h1>Create a User</h1>
 </p>
